@@ -1,0 +1,17 @@
+{
+  "providers": [
+    "awscloudformation"
+  ],
+  "projectName": "RealTimeChat",
+  "version": "3.1",
+  "frontend": "javascript",
+  "javascript": {
+    "framework": "react-native",
+    "config": {
+      "SourceDir": "/Users/rohit/Documents/Work/chatApp",
+      "DistributionDir": "/",
+      "BuildCommand": "expo start",
+      "StartCommand": "expo start"
+    }
+  }
+}
